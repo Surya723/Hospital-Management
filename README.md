@@ -28,8 +28,11 @@ to manage the databases
 Add following libraries:
 
 jcalendar-1.4
+
 mysql-connector-java-5.1.47
+
 mysql-connector-java-5.1.47-bin
+
 jdk1.6
 
 
